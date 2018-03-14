@@ -1,10 +1,10 @@
 package program;
 
-/*public class Constractor {
+public class Constractor {
 
 	// TODO Auto-generated method stub
 		//Constructor
-		/*Constractor()
+		Constractor()
 		{
 			System.out.println("This is constructor");
 		}
@@ -12,9 +12,9 @@ package program;
 		{
 			Constractor H = new Constractor();
 		}
-	}*/
+	}
 	//Constructor Overloading
-	/*Constractor(int a)
+	Constractor(int a)
 		{
 			System.out.println(a);
 		}
@@ -27,9 +27,9 @@ package program;
 			Constractor H = new Constractor(10);
 			Constractor H1= new Constractor(10,20);
 		}
-		}*/
+		}
 	//Constructor Overloading using THIS function
-		/*Constractor(int a)
+		Constractor(int a)
 		{
 			System.out.println(a);
 		}
@@ -46,6 +46,6 @@ package program;
 		public static void main(String[] args)
 		{
 			Constractor H=new Constractor(10,20,30);
-		}*/
+		}
 
 		
